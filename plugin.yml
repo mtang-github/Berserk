@@ -1,0 +1,7 @@
+name: Berserk
+version: 1
+author: danny
+main: us.danny.berserk.Main
+commands:
+    berserkResetCD:
+        description: reset your berserk cooldown
